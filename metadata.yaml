@@ -1,0 +1,29 @@
+_repo: San-Xavier-Del-Bac-Arizona-A-Descriptive-and-Historical-Guide_53127
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Writers' Program of the Work Projects Administration in the State
+      of Arizona
+    aliases:
+    - Writers' Program. Arizona
+    - United States. Writers Program of the Work Projects Administration in the State
+      of Arizona
+    - Arizona Writers Project
+    gutenberg_agent_id: '47228'
+    url: http://www.gutenberg.org/2009/agents/47228
+description: ''
+gutenberg_issued: '2016-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53127'
+  lccn: '40027588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mission San Xavier del Bac (Tucson, Ariz.)'
+- !lcc 'NA'
+- GITenberg
+title: 'San Xavier Del Bac, Arizona: A Descriptive and Historical Guide'
+url: http://www.gutenberg.org/ebooks/53127
